@@ -1,4 +1,6 @@
 // declare your functions here...
 $(document).ready(function() {
-  $('img')
+  function paragraphSelector(){
+    $('p');
+  };
 });
